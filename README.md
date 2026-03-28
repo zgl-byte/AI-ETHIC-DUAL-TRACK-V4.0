@@ -1,11 +1,11 @@
-# 双轨原则体系 V4.2.1
+# 双轨原则体系 
 
 **A user-sovereignty ethical framework for AI interaction.**  **一种以用户主权为导向的AI交互伦理框架。**  
 面向人工智能交互的用户主权伦理框架。源自一次为期20天的独自旅程。
 
 ---
 
-## 📄 核心文档（当前版本）
+## 📄 核心文档
 
 - **[双轨原则体系 V4.2.1（主要适用于闭源商业AI）](./Dual-Track-Principles-V4.2.1(1).pdf)** – 用户主权、透明、可纠错、有边界。  
 - **[交互技巧附录建设指南](./docs/guidance/V4.2.1-technique-appendix-v1.0.md)** – I3/I16 执行增强，含内置引导词与扩展技巧库。  -**[交互技巧附录建设指南](./docs/guidance/V4.2.1-technique-appendix-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2......./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs/guidance/V4.2.1-技术附录-v1.0.md./docs......)– I3/I16 执行增强，含内置引导词与扩展技巧库。
